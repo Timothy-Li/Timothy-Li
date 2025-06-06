@@ -6,7 +6,7 @@
 
  <h2><strong>School of Code Projects:</strong></h2>
 
-<a href="https://github.com/Timothy-Li/SoC-final-project"> Week 13 Final Project:</a><span> Multiplayer web-based quiz app made with TypeScript featuring OAuth authentication and real-time competition using Socket.io. </span><br>
+<a href="https://github.com/Timothy-Li/QuizMania"> Week 13 Final Project:</a><span> Multiplayer web-based quiz app made with TypeScript featuring OAuth authentication and real-time competition using Socket.io. </span><br>
 <a href="https://github.com/Timothy-Li/week-12-hackathon-airon-chefs"> Week 12: </a><span> Full stack recipe app with a RAG (Retrieval Augmented Generation) powered chatbot, using Pinecone for accurate, context-aware responses. </span><br>
 <a href="https://setting-sail-typescript-c8jmtve.gamma.site/"> Week 11: </a><span> A One Piece-themed beginner's guide to TypeScript educational website. </span><br>
 <a href="https://github.com/Timothy-Li/-week-10-hackathon-the-ping-pantheon"> Week 10: </a><span> Video Game Helper app made with TypeScript, implemented aspects of automation and DevOps. </span><br>
