@@ -1,8 +1,8 @@
 <h1> Hi, I'm Tim 👋 </h1>
 
 <h2><strong> Personal Project:</strong> <a href="https://github.com/Timothy-Li/tricky-words">Tricky Words App</a></h2>
-<p> An app designed to help my 5 year old daughter with practising phonics and reading <p>
-<p>Current progress: Ideation and early planning</p>
+<p> An app designed to help my 5 year old daughter with practising phonics and reading.<p>
+<p>Current progress: Ideation and early planning.</p>
 
  <h2><strong>School of Code Projects:</strong></h2>
 
