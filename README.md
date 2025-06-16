@@ -2,7 +2,7 @@
 
 <h2><strong> Personal Project:</strong> <a href="https://github.com/Timothy-Li/tricky-words">Tricky Words App</a></h2>
 <p> An app designed to help my 5 year old daughter with practising phonics and reading.<p>
-<p>Current progress: Ideation and early planning.</p>
+<p>Current progress: MVP 1 complete (core functionality).</p>
 
  <h2><strong>School of Code Projects:</strong></h2>
 
